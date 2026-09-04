@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Nithin+Kumar+Reddy+%F0%9F%91%8B; MCA+Student+%40+Madanapalle+Institute+of+Technology;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+%26+SQL+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Nithin+Kumar+Reddy+%F0%9F%91%8B;MCA+Student+%40+Madanapalle+Institute+of+Technology;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+%26+SQL+%F0%9F%90%8D" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20%26%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-🎓  MCA Student at Madanapalle Institute of Technology & Science &nbsp;•&nbsp;
+🎓 MCA Student at Madanapalle Institute of Technology & Science &nbsp;•&nbsp;
 💻 Full Stack Web Development &nbsp;•&nbsp;
 🐍 Python & SQL &nbsp;•&nbsp;
 🚀 Backend & Scalable Applications

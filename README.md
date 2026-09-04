@@ -1,146 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Nithin%20Kumar%20Reddy&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=N.%20Nithin%20Kumar%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MCA+Student;Python+%7C+React+%7C+Node.js+Developer;Backend+Development+Enthusiast;Building+Real-World+Web+Applications" alt="Typing SVG" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;React+Developer+%E2%9A%9B%EF%B8%8F;Backend+%26+Database+Enthusiast+%F0%9F%9A%80;Building+Real-World+Applications+%F0%9F%8C%8D;Learning.+Building.+Improving.+%F0%9F%94%A5" alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://github.com/Nithinreddy1538">
-<img src="https://img.shields.io/badge/GitHub-Nithinreddy1538-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://premium-portfolio-dun-gamma.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="mailto:nithinkumarreddy1538@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nithinreddy1538&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Nithinreddy1538&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Nithin Kumar Reddy
+# 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nithinreddy1538&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="400"/>
+<table>
+<tr>
+<td width="62%">
 
-🎓 MCA Student at **Madanapalle Institute of Technology & Science**
+### Hey there! 👋
+
+I'm **N. Nithin Kumar Reddy**, an MCA student and aspiring **Full Stack Developer** who enjoys transforming ideas into practical and user-friendly applications.
+
+🎓 **MCA Student** at Madanapalle Institute of Technology & Science
 
 💻 Passionate about **Full Stack Web Development**
 
-🐍 Currently working with **Python & SQL**
+🐍 Interested in **Python & Backend Development**
 
-🚀 Interested in **Backend Development and Scalable Applications**
+⚛️ Building interfaces with **React**
 
-🌐 Building modern and responsive web applications
+🗄️ Working with **SQL & Databases**
 
-📚 Continuously learning new technologies and development practices
+🚀 Developing practical projects that solve real-world problems
 
-💡 I enjoy transforming ideas into practical software solutions.
+🌱 Continuously learning and improving my development skills
 
-<br clear="right"/>
+💼 Open to **Software Developer / Full Stack Developer / Python Developer / Web Developer** opportunities
 
----
+</td>
 
-# 🚀 About Me
+<td width="38%" align="center">
 
-```text
-Name        : N. Nithin Kumar Reddy
-Degree      : Master of Computer Applications
-Focus       : Full Stack Web Development
-Backend     : Python, Node.js
-Frontend    : HTML, CSS, JavaScript, React
-Database    : SQL
-Currently   : Banking Management System
-Completed   : Travel Buddy – UG Capstone Project
-```
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Developer.gif" width="320" alt="Developer Animation"/>
 
-### 🎯 What I'm Currently Doing
-
-* 🔭 Working on a **Banking Management System**
-* 🌱 Learning **Advanced React**
-* ⚙️ Improving my **Node.js & Backend Development** skills
-* 🗄️ Strengthening my **SQL & Database** knowledge
-* 💻 Building projects that solve real-world problems
-* 🚀 Preparing for **Software Developer / Full Stack Developer** opportunities
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 My Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the best way to become a better developer is by continuously building real-world projects and learning from every problem encountered along the way.
-
----
-
-# 🛠️ Tech Stack
+# ⚡ My Development Philosophy
 
 <div align="center">
 
-### 👨‍💻 Programming & Web
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express" />
-
-### 🗄️ Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix;Improve+%E2%86%92+Repeat+%F0%9F%94%81;Code+with+curiosity.+Build+with+purpose." alt="Developer Philosophy"/>
 
 </div>
 
 ---
 
-# 🎬 Profile Animation
+# 🛠️ Technology Arsenal
 
 <div align="center">
 
-<img
-src="./assets/profile-animation.gif"
-width="750"
-alt="Nithin Kumar Reddy Profile Animation"
-/>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript&perline=6" alt="Programming Languages"/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react&perline=6" alt="Frontend Technologies"/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql&perline=6" alt="Backend Technologies"/>
+
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" alt="Development Tools"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I'm Working On
+
+<div align="center">
+
+| 🔭 Area             | 🎯 Current Focus                  |
+| :------------------ | :-------------------------------- |
+| ⚛️ Frontend         | React & responsive UI development |
+| 🐍 Backend          | Python & Node.js                  |
+| 🗄️ Database        | SQL & database design             |
+| 🔥 Backend Services | Firebase                          |
+| 🔧 Development      | Git & GitHub                      |
+| 🚀 Career           | Production-ready applications     |
+
+</div>
+
+---
+
+# 🌟 Featured Projects
 
 ## ✈️ Travel Buddy
 
-A web application designed to help travelers discover destinations and connect with travel-related information.
+<div align="center">
 
-**Technologies:**
+<img src="https://img.shields.io/badge/PROJECT-Travel%20Buddy-36BCF7?style=for-the-badge" alt="Travel Buddy"/>
 
-`HTML` `CSS` `JavaScript` `Web Development`
+</div>
 
-🌐 **Live Project:**
-https://ug-capstone-project.vercel.app/
+### 🌍 Smart Travel Planning Platform
+
+**Travel Buddy** is a web-based travel planning platform created to make trip organization easier and more interactive.
+
+### ✨ Features
+
+* 🌍 Travel planning interface
+* 🗓️ Trip organization
+* 🔥 Firebase integration
+* 📱 Responsive design
+* ⚡ Interactive user experience
+* 🎨 User-friendly interface
+
+### 🧰 Built With
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,firebase" alt="Travel Buddy Technologies"/>
+
+<br><br>
+
+<div align="center">
+
+<a href="https://ug-capstone-project.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C853?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+</div>
 
 ---
 
 ## 🏦 Banking Management System
 
-A banking management application focused on managing banking operations using Python and SQL.
+<div align="center">
 
-### Features
+<img src="https://img.shields.io/badge/PROJECT-Banking%20Management%20System-7F00FF?style=for-the-badge" alt="Banking Management System"/>
 
-* 👤 Customer Management
-* 💰 Account Management
-* 💸 Transaction Management
-* 🔐 Secure Data Handling
-* 🗄️ SQL Database Integration
-* 🐍 Python Backend Logic
+</div>
 
-**Technologies:**
+### 💰 Python + SQL Application
 
-`Python` `SQL` `Database Management`
+A banking management project focused on implementing core banking operations using **Python and SQL**.
+
+### ✨ Focus Areas
+
+* 🏦 Banking operations
+* 🐍 Python application logic
+* 🗄️ SQL database management
+* 🔐 Data handling
+* 📊 Backend functionality
+
+### 🧰 Built With
+
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Banking Technologies"/>
+
+<br>
+
+> 🚧 **Currently improving this project with additional functionality.**
 
 ---
 
@@ -148,177 +190,129 @@ A banking management application focused on managing banking operations using Py
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Nithinreddy1538&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-height="180"
-alt="Nithin's GitHub Stats"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nithinreddy1538&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Nithin's GitHub Stats"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinreddy1538&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-alt="Top Languages"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinreddy1538&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithinreddy1538&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Nithinreddy1538&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nithinreddy1538&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="Nithin's Contribution Graph"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Nithinreddy1538/Nithinreddy1538/output/github-contribution-grid-snake.svg"
-width="95%"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology        | Focus                             |
-| ----------------- | --------------------------------- |
-| ⚛️ React          | Advanced Frontend Development     |
-| 🟢 Node.js        | Backend Development               |
-| 🚂 Express.js     | REST APIs                         |
-| 🗄️ SQL           | Database Optimization             |
-| 🐍 Python         | Backend & Application Development |
-| 🔐 Authentication | Secure Web Applications           |
-| 🌐 REST APIs      | Full Stack Integration            |
-
-</div>
-
----
+ 
 
 # 🎓 Education
+
+<div align="center">
 
 ### 🎓 Master of Computer Applications — MCA
 
 **Madanapalle Institute of Technology & Science**
 
+📚 Currently Pursuing
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Advanced+React+%E2%9A%9B%EF%B8%8F;Python+Backend+Development+%F0%9F%90%8D;Node.js+%F0%9F%9F%A2;SQL+%26+Database+Design+%F0%9F%97%84%EF%B8%8F;Modern+Full+Stack+Development+%F0%9F%9A%80" alt="Currently Learning"/>
+
+</div>
+
 ---
 
 # 🎯 2026 Goals
 
-```text
-[████████████████░░░░] Build More Full Stack Projects
-[██████████████░░░░░░] Master React & Node.js
-[████████████░░░░░░░░] Improve Backend Development
-[██████████░░░░░░░░░░] Strengthen SQL & Databases
-[████████░░░░░░░░░░░░] Contribute to Open Source
-[██████░░░░░░░░░░░░░░] Land a Software Developer Role
-```
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🚀
+
+**Build**
+
+Production-ready applications
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**Master**
+
+React & modern frontend
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**Improve**
+
+Python & backend development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+
+**Collaborate**
+
+Open-source projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Developer Mindset
+# 💡 Developer Mindset
 
 <div align="center">
 
-### 🚀 Build
+### **Learn → Build → Break → Fix → Improve → Repeat 🔁**
 
-Create projects that solve real problems.
+<br>
 
-### 🧠 Learn
-
-Keep improving technical and problem-solving skills.
-
-### 🔧 Debug
-
-Understand problems instead of avoiding them.
-
-### 📈 Improve
-
-Make every project better than the previous one.
-
-### 🌎 Share
-
-Learn from and contribute to the developer community.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 </div>
 
 ---
 
-# 🤝 Open to Opportunities
-
-I'm currently open to opportunities in:
-
-* 💻 Software Development
-* 🌐 Web Development
-* 🐍 Python Development
-* ⚛️ Frontend Development
-* 🚀 Full Stack Development
-* ⚙️ Backend Development
-
-If you're working on something interesting, feel free to connect with me!
-
----
-
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Nithinreddy1538">
-<img src="https://img.shields.io/badge/GitHub-Nithinreddy1538-181717?style=for-the-badge&logo=github"/>
-</a>
+### 💬 Have an idea? Let's build something!
+
+<br>
 
 <a href="https://premium-portfolio-dun-gamma.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-My%20Website-00C7B7?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00A8FF?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="mailto:nithinkumarreddy1538@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-nithinkumarreddy1538-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email"/>
 </a>
 
-</div>
+<a href="https://github.com/Nithinreddy1538">
+<img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
----
+<br><br>
 
-# 💬 Developer Quote
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80" alt="Closing Animation"/>
 
-<div align="center">
+<br><br>
 
-> "First, solve the problem. Then, write the code."
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt="Footer"/>
 
 </div>

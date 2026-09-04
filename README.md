@@ -57,9 +57,9 @@ Completed   : Travel Buddy – UG Capstone Project
 <div align="center">
 
 ### 👨‍💻 Programming & Web
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express&theme=dark" />
 <br/><sub>🌱 Currently learning:</sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" />
 
 ### 🗄️ Database & Tools
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman&theme=dark" />
@@ -100,6 +100,28 @@ Once this repo is pushed to GitHub, uncomment and set the correct repo name to s
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithinreddy1538&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 -->
+
+### 🎵 Rhythmix — Full Stack Music Streaming App
+> 🎧 Listen. Discover. Enjoy. A full stack music streaming platform to play, like, and organize songs into albums.
+
+**🔥 Features**
+- 🎧 Stream songs
+- ❤️ Like / unlike tracks
+- 🕘 Recently played history
+- 📀 Create albums & add songs to them
+- 🔐 Signup / Login with email verification
+- 👤 User profiles
+- 🛠️ Admin dashboard
+- ☁️ Cloudinary media storage
+
+`React` `Vite` `Node.js` `Express.js` `MySQL` `JWT`
+
+🌐 **Live Demo:** [rythmix-theta.vercel.app](https://rythmix-theta.vercel.app/)
+
+<div align="center">
+<a href="https://rythmix-theta.vercel.app/"><img src="https://img.shields.io/badge/View%20Live%20Demo-1DB954?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/nithinkreddy1538-sketch/Rythmix"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
@@ -194,6 +216,7 @@ Madanapalle Institute of Technology & Science
 <a href="https://github.com/Nithinreddy1538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nithinkumarreddy1538"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://premium-portfolio-dun-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+ 
 <!--
 Add these back in once you have the links — just uncomment and fill in:
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

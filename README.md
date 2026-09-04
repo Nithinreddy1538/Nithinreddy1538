@@ -186,7 +186,7 @@ Madanapalle Institute of Technology & Science
 <div align="center">
 
 <a href="https://github.com/Nithinreddy1538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ug-capstone-project.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20Project-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://premium-portfolio-dun-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20Project-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <!--
 Add these back in once you have the links — just uncomment and fill in:

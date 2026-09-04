@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Nithin+Kumar+Reddy+%F0%9F%91%8B;MCA+Student+%40+MITS%2C+Madanapalle;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+and+SQL+%F0%9F%90%8D" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20and%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20and%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -188,8 +188,7 @@ Madanapalle Institute of Technology & Science
 <a href="https://github.com/Nithinreddy1538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nithinkumarreddy1538"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://premium-portfolio-dun-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://ug-capstone-project.vercel.app/"><img src="https://img.shields.io/badge/Travel%20Buddy%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
+ 
 <!--
 Add these back in once you have the links — just uncomment and fill in:
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

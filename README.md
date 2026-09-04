@@ -112,11 +112,17 @@ Once this repo is pushed to GitHub, uncomment and set the correct repo name to s
 
 <img src="https://github-readme-streak-stats.vercel.app/?user=Nithinreddy1538&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2" width="70%" />
 
+### 🏆 Trophy Case
+<img src="https://github-profile-trophy.vercel.app/?username=Nithinreddy1538&theme=radical&no-frame=true&row=2&column=4" width="100%" />
+
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithinreddy1538&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff" width="100%" />
 
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Nithinreddy1538/Nithinreddy1538/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 
 </div>
 
@@ -188,7 +194,6 @@ Madanapalle Institute of Technology & Science
 <a href="https://github.com/Nithinreddy1538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nithinkumarreddy1538"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://premium-portfolio-dun-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
- 
 <!--
 Add these back in once you have the links — just uncomment and fill in:
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

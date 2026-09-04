@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Nithin+Kumar+Reddy+%F0%9F%91%8B;MCA+Student+%40+MITS%2C+Madanapalle;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+%26+SQL+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Nithin+Kumar+Reddy+%F0%9F%91%8B;MCA+Student+%40+MITS%2C+Madanapalle;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+and+SQL+%F0%9F%90%8D" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20%26%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20and%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -37,7 +37,7 @@ Completed   : Travel Buddy – UG Capstone Project
 > 💡 I enjoy transforming ideas into practical software solutions.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=8A2BE2&center=true&vCenter=true&width=750&lines=%F0%9F%94%AD+Working+on+a+Banking+Management+System;%F0%9F%8C%B1+Learning+Advanced+React;%E2%9A%99%EF%B8%8F+Improving+Node.js+%26+Backend+skills;%F0%9F%97%84%EF%B8%8F+Strengthening+SQL+%26+Database+knowledge;%F0%9F%9A%80+Preparing+for+Full+Stack+Developer+roles" alt="Currently Doing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=8A2BE2&center=true&vCenter=true&width=750&lines=%F0%9F%94%AD+Working+on+a+Banking+Management+System;%F0%9F%8C%B1+Learning+Advanced+React;%E2%9A%99%EF%B8%8F+Improving+Node.js+and+Backend+skills;%F0%9F%97%84%EF%B8%8F+Strengthening+SQL+and+Database+knowledge;%F0%9F%9A%80+Preparing+for+Full+Stack+Developer+roles" alt="Currently Doing" />
 </div>
 
 ---
@@ -186,7 +186,7 @@ Madanapalle Institute of Technology & Science
 <div align="center">
 
 <a href="https://github.com/Nithinreddy1538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://premium-portfolio-dun-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20Project-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://ug-capstone-project.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20Project-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <!--
 Add these back in once you have the links — just uncomment and fill in:

@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Nithin+Kumar+Reddy+%F0%9F%91%8B;MCA+Student+%40+MITS%2C+Madanapalle;Passionate+about+Full+Stack+Web+Development+%F0%9F%92%BB;Currently+working+with+Python+and+SQL+%F0%9F%90%8D" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20and%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nithin%20Kumar%20Reddy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Python%20and%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 

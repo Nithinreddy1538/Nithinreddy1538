@@ -123,6 +123,23 @@ Once this repo is pushed to GitHub, uncomment and set the correct repo name to s
 <a href="https://github.com/nithinkreddy1538-sketch/Rythmix"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+### 🏥 Hospital Management System
+
+> 🏥 A full-stack web application designed to manage hospital operations including doctors, patients, appointments, pharmacy, laboratory, billing, and more.
+
+`React.js` `Django` `Django REST Framework` `PostgreSQL`
+
+🌐 **Live Project:** [hospital-management-system-uam9.onrender.com](https://hospital-management-system-uam9.onrender.com)
+
+<div align="center">
+
+<a href="https://hospital-management-system-uam9.onrender.com">
+<img src="https://img.shields.io/badge/View%20Live%20Demo-00F7FF?style=for-the-badge&logo=render&logoColor=black" />
+</a>
+
+</div>
+
+
 ---
 
 ## 📊 GitHub Analytics

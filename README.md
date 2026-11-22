@@ -93,6 +93,9 @@ Completed   : Travel Buddy – UG Capstone Project
 - 🐍 Python Backend Logic
 
 `Python` `SQL` `Database Management`
+
+
+
 🌐 **Live Project:** [banking-management-frontend.onrender.com](https://banking-management-frontend.onrender.com/)
 
 

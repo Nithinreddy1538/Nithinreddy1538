@@ -92,7 +92,7 @@ Completed   : Travel Buddy – UG Capstone Project
 - 🗄️ SQL Database Integration
 - 🐍 Python Backend Logic
 
-`Python` `SQL` `Database Management`
+`React` `Django` `Django Framework` `REST APIs` `MYSQL` 
 
 
 
